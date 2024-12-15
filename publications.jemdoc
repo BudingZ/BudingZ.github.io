@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Publications 
 
@@ -24,3 +25,31 @@
 Xu Wan, *Lanting Zeng* and Mingyang Sun \n
 In Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI), 2022.
 
+=======
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications 
+
+=== Journal
+
+- [https://www.sciencedirect.com/science/article/abs/pii/S0306261922009850 Resilience enhancement of multi-agent reinforcement learning-based demand response against adversarial attacks] \n
+  #- [https://www.sciencedirect.com/science/article/abs/pii/S0306261922009850  Resilience enhancement of multi-agent reinforcement learning-based demand response against adversarial attacks] \n
+  *Lanting Zeng*, Dawei Qiu, and Mingyang Sun \n
+
+  In Applied Energy, 2022.
+  
+- [https://ieeexplore.ieee.org/abstract/document/9834132/ Physics-Constrained Vulnerability Assessment of Deep Reinforcement Learning-based SCOPF] \n
+  #- [https://ieeexplore.ieee.org/abstract/document/9834132/  Physics-Constrained Vulnerability Assessment of Deep Reinforcement Learning-based SCOPF] \n
+  *Lanting Zeng*, Mingyang Sun, Xu Wan, Zhenyong Zhang, Ruilong Deng and Yan Xu \n
+  
+  In IEEE Transactions on Power Systems, 2022.
+
+
+
+=== Conference
+
+- [https://www.ijcai.org/proceedings/2022/549 Exploring the Vulnerability of Deep Reinforcement Learning-based Emergency Control for Low Carbon Power Systems] \n
+#- [https://www.ijcai.org/proceedings/2022/549 Exploring the Vulnerability of Deep Reinforcement Learning-based Emergency Control for Low Carbon Power Systems] \n
+Xu Wan, *Lanting Zeng* and Mingyang Sun \n
+In Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI), 2022.
+
+>>>>>>> e92f6b5 (Initial commit)

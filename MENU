@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Menu
     Home                [index.html]
 	Publication         [publications.html]
 	Experience			[experience.html]
+=======
+Menu
+    Home                [index.html]
+	Publication         [publications.html]
+	Experience			[experience.html]
+>>>>>>> e92f6b5 (Initial commit)
 	Misc.				[miscellaneous.html]
