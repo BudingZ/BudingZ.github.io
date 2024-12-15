@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # jemdoc: menu{MENU}{experience.html}, nofooter
 
 == Research Experience
@@ -24,30 +23,3 @@
 - Alibaba AIR Project: Security Research in second-level Scheduling of large-scale power grids, Co-Investigator, 2022 - 2023
 - Measuring system of large yellow croakers' economic characters based on machine vision, Leader, 2019-2020
 
-=======
-# jemdoc: menu{MENU}{experience.html}, nofooter
-
-== Research Experience
-
-- Project Leader, [https://ieeexplore.ieee.org/abstract/document/9834132/ Physics-Constrained Vulnerability Assessment of Deep Reinforcement Learning-based SCOPF], Zhejiang University, 06\/2020 - 12\/2021
--- It proposes a physics-constrained vulnerability assessment framework for a DRL-based power system operation and control model in the SCOPF 	problem by considering a more realistic case that adversarial examples are stealthy (i.e., bypass the BDD mechanism) only when the manipulated observations follow the power system physical constraints.
-
-- Project Leader, [https://www.sciencedirect.com/science/article/abs/pii/S0306261922009850 Resilience enhancement of multi-agent reinforcement learning-based demand response against adversarial attacks], Zhejiang University, 12\/2021 - 06\/2022
-
-  -- It develops a novel robust adversarial training framework, RAMARL, which can mathematically formulate the adversarial Markov Game and improves the MARL models' performance by robust adversarial training. Specifically, RAMARL models the adversarial attacks as an optimal adversary agent considering the perturbation bound and designs periodic robust adversarial training.
-
-- Co-Investigator, [https://www.ijcai.org/proceedings/2022/549 Exploring the Vulnerability of Deep Reinforcement Learning-based Emergency Control System  ], Zhejiang University, 06\/2021 - 01\/2021
-
-  -- It comprehensively investigates adversarial attacks and defense mechanisms for DRL-based power system emergency control. It designs recovery-targeted (RT) adversarial attacks which are gradient-based approaches, and the corresponding robust defense (RD) mechanisms, which actively modify the observations based on the distances of sequential states.
-
-
-
-== Research Project
-
-- DATALESs: DATA-analytics for enhanced operation of Local Energy Systems from cyber-physical-social perspectives, Co-Investigator, 2022 - Present
-
-- Physics-integrated Data-driven Methods for Resilient Transient Stability Assessment of Large-scale Power Systems, Co-Investigator, 2022 - Present
-- Alibaba AIR Project: Security Research in second-level Scheduling of large-scale power grids, Co-Investigator, 2022 - 2023
-- Measuring system of large yellow croakers' economic characters based on machine vision, Leader, 2019-2020
-
->>>>>>> e92f6b5 (Initial commit)

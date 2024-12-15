@@ -1,31 +1,3 @@
-<<<<<<< HEAD
-# jemdoc: menu{MENU}{index.html}, nofooter
-= Lanting Zeng
-
-~~~
-{}{img_left}{Figs/bio.jpg}{alt text}{300px}{300px}{https://ltzeng.github.io/}
-[https://lantingzeng.github.io/ Lanting Zeng], PhD Student\n
-[http://nesc.zju.edu.cn/ Group of Networked Sensing and Control (NESC)] \n
-[http://cse.zju.edu.cn/ Colledge of Control Science and Engineering], [https://www.zju.edu.cn/ Zhejiang University (ZJU)]\n
-\n
-E-mail: [ltzeng@zju.edu.cn] \n
-\[[https://scholar.google.com/citations?user=HLSkYpMAAAAJ&hl=sv Google Scholar]\]\[[lantingCV.pdf Curriculem Vitae]\] \n
-
-~~~
-
-== About me
-I am currently a third-year PhD student affiliated with [http://nesc.zju.edu.cn/ NESC Group] at [https://www.zju.edu.cn/ Zhejiang University (ZJU)]. I am fortunately advised by [https://www.imperial.ac.uk/people/mingyang.sun11 Prof. Mingyang Sun]. I also received the B.S. degree  in electrical engineering and automation from [https://www.xmu.edu.cn/ Xiamen University (XMU)] in 2020. 
-
-My research interests include reinforcement learning in power systems operation and control. Recently, I am working on exploring vulnerabilities of deep reinforcement learning-based power systems and enhance robustness against cyber-attacks.
-
-== Research Interests
-
-Security of Deep Reinforcement Learning-based Energy System Operation and Control
-
-- Vulnerability Assessment
-- Robust Enhancement
-
-=======
 # jemdoc: menu{MENU}{index.html}, nofooter
 = Lanting Zeng
 
@@ -45,7 +17,6 @@ I am currently a fifth-year PhD student affiliated with [http://nesc.zju.edu.cn/
 
 My research interests include reinforcement learning in power systems operation and control. Recently, I am working on exploring vulnerabilities of deep reinforcement learning-based power systems and enhance robustness against cyber-attacks.
 
-
 == Research Interests
 
 Security of Deep Reinforcement Learning-based Energy System Operation and Control
@@ -53,4 +24,3 @@ Security of Deep Reinforcement Learning-based Energy System Operation and Contro
 - Vulnerability Assessment
 - Robust Enhancement
 
->>>>>>> e92f6b5 (Initial commit)
